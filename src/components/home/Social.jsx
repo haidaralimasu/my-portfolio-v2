@@ -12,7 +12,7 @@ const Social = () => {
       </a>
 
       <a
-        href="https://twitter.com/haidaralieth"
+        href="https://twitter.com/haidarali_masu"
         className="home__social-icon"
         target="_blank"
       >

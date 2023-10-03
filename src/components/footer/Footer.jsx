@@ -37,7 +37,7 @@ const Footer = () => {
           </a>
 
           <a
-            href="https://twitter.com/haidaralieth"
+            href="https://twitter.com/haidarali_masu"
             className="footer__social-link"
             target="_blank"
           >
